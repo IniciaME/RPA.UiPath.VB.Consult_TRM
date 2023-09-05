@@ -1,4 +1,4 @@
-# RPA.UiPath.Csharp.Consult_TRM
+# RPA.UiPath.VisualBasic.Consult_TRM
 
 Consult all Items from the Republic Bank of Colombia with the next values
 
